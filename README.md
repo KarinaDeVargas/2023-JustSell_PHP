@@ -32,10 +32,10 @@ JustSell leverages the latest web technologies to deliver a robust and feature-r
 
 ## Screenshot
 
-<img src="https://github.com/KarinaDeVargas/2023-JustSell_PHP/blob/main/images/Homer.png" alt="Screenshot 1" width="350" style="border: 20px solid black">
-<img src="https://github.com/KarinaDeVargas/2023-JustSell_PHP/blob/main/images/getintouch.png" alt="Screenshot 1" width="350" style="border: 20px solid black">
-<img src="https://github.com/KarinaDeVargas/2023-JustSell_PHP/blob/main/images/aboutus.png" alt="Screenshot 1" width="350" style="border: 20px solid black">
-<img src="https://github.com/KarinaDeVargas/2023-JustSell_PHP/blob/main/images/Login.png" alt="Screenshot 1" width="350" style="border: 20px solid black">
-<img src="https://github.com/KarinaDeVargas/2023-JustSell_PHP/blob/main/images/Listing.png" alt="Screenshot 1" width="350" style="border: 20px solid black">
-<img src="https://github.com/KarinaDeVargas/2023-JustSell_PHP/blob/main/images/Search.png" alt="Screenshot 1" width="350" style="border: 20px solid black">
+<img src="https://github.com/KarinaDeVargas/2023-JustSell_PHP/blob/main/images/Homer.png" alt="Screenshot 1" width="350">
+<img src="https://github.com/KarinaDeVargas/2023-JustSell_PHP/blob/main/images/getintouch.png" alt="Screenshot 1" width="350">
+<img src="https://github.com/KarinaDeVargas/2023-JustSell_PHP/blob/main/images/aboutus.png" alt="Screenshot 1" width="350">
+<img src="https://github.com/KarinaDeVargas/2023-JustSell_PHP/blob/main/images/Login.png" alt="Screenshot 1" width="350">
+<img src="https://github.com/KarinaDeVargas/2023-JustSell_PHP/blob/main/images/Listing.png" alt="Screenshot 1" width="350">
+<img src="https://github.com/KarinaDeVargas/2023-JustSell_PHP/blob/main/images/Search.png" alt="Screenshot 1" width="350">
 
